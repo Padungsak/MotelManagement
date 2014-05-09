@@ -1,0 +1,60 @@
+msgid "welcome"
+
+msgstr "User Front Page"
+
+msgid "delRecordsSuc"
+
+msgstr "Record(s) has(have) been deleted"
+
+msgid "delRecordsError"
+
+msgstr "Please select items to delete"
+
+msgid "saveRecordsSuc"
+
+msgstr " has been saved"
+
+msgid "editRecordsSuc"
+
+msgstr " has been changed"
+
+msgid "delete"
+
+msgstr "Delete"
+
+msgid "add"
+
+msgstr "Add"
+
+msgid "edit"
+
+msgstr "Edit"
+
+msgid "loginFail"
+
+msgstr "Log in Failed"
+
+msgid "changePwdFail"
+
+msgstr "Passwords don't match"
+
+msgid "changePwdOk"
+
+msgstr "Password has been updated"
+
+msgid "usernameNull"
+
+msgstr "User Name can not be empty"
+
+msgid "passwordNull"
+
+msgstr "Password can not be empty"
+
+msgid "usernameExsit"
+
+msgstr "Username has been taken"
+
+msgid "roleNameNull"
+
+msgstr "Name can not be empty"
+

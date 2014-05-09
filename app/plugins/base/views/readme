@@ -1,0 +1,8 @@
+Base plugin v1.0
+
+Usage: 
+1. default username: admin, password: admin
+
+2. define access to Controller level, to define access based on Action level, change method in access_controller.
+
+3. to integrate Base, simply add "AccessController" into App_controller's $components

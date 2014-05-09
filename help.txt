@@ -1,0 +1,25 @@
+Installation Guide
+1.	Login to your server, and open phpMyAdmin window, create your desired database, 
+        and import “table.sql” from “sql” folder into your database, and then import “data.sql”. 
+        Please note: you have to import table first before you import data.
+2.	Copy all of the files/folders under “Mrbs” folder into your server, 
+	and change permissions of folder  
+	“app\tmp\cache” ,
+	“app\tmp\cache\models” , 
+	“app\tmp\cache\models\persistent” and “app\tmp\cache\models\views”  to “777”.
+3.	Give correct database access info inside “app\config\ database.php”.
+4.	Now you have a Meeting Room Booking System, 
+	access client page from url  “http://your-domain-name/”.
+	access admin  page from url  “http://your-domain-name/admin”.
+	Default admin username and passwords:  admin/admin
+
+
+To access/make sure of RBAC, access secret user:   super_admin/super_admin
+More info about RBAC plugin:  http://codecanyon.net/item/base-role-based-access-controlcakephp-plugin/89182
+
+
+
+
+
+Brought you by www.the-di-lab.com
+
